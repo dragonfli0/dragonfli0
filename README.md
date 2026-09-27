@@ -1,4 +1,4 @@
-# Hi, I'm Veronika 👋
+# Hi, I'm Rona 👋
 
 ### Junior ML Engineer | Machine Learning | Computer Vision | Python
 
